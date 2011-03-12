@@ -1,0 +1,11 @@
+{
+	"name": "CodeTable",
+	"version": "2011.1.11",
+	"description": "Google APIs Developer Products",
+	"chrome_url_overrides": {
+		"newtab": "newpage.html"
+	},
+	"icons": {
+		"32": "icon_32.png"
+	}
+}
